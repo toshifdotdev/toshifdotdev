@@ -1,6 +1,6 @@
-<!-- ============== PIXEL CATS (sticky, animated GIFs) ============== -->
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat1_pink.gif" alt="pixel cat" width="120" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat2_cyan.gif" alt="pixel cat" width="120" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<!-- ============== HELLO-KITTY-STYLE PIXEL CATS (sticky, follow you while scrolling) ============== -->
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk1.gif" alt="nyx the pixel cat" width="130" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk2.gif" alt="ren the pixel cat" width="130" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
 
 <div id="top" align="center">
 
