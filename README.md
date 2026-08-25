@@ -1,12 +1,12 @@
-<!-- ============== ANIME MASCOTS (sticky bottom corners, SMIL-animated SVGs) ============== -->
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/mascots/nyx.svg" alt="nyx mascot" width="110" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/mascots/ren.svg" alt="ren mascot" width="120" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<!-- ============== PIXEL CATS (sticky, animated GIFs) ============== -->
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat1_pink.gif" alt="pixel cat" width="120" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat2_cyan.gif" alt="pixel cat" width="120" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
 
 <div id="top" align="center">
 
 <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="60" alt="wave" style="transform: scale(0.5) translateY(-15px);"/>
 
-# `> initializing toshifdotdev.exe...`
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=1800&pause=400&color=FF2BD6,FFD700,FF7A00&center=false&vCenter=false&repeat=true&width=560&height=36&lines=%3E+initializing+toshifdotdev.exe" alt="initializing typing svg" />
 
 <br/>
 
@@ -78,21 +78,22 @@ fun_fact: "I speak fluent JavaScript... and some English."
 </td>
 <td width="45%" valign="top">
 
-```ascii
-   ┌──────────────────────────────┐
-   │  T O S H I F . e x e         │
-   │──────────────────────────────│
-   │  PID       : 1337             │
-   │  STATUS    : ◉ RUNNING        │
-   │  MOOD      : ⚡ HYPERFOCUS    │
-   │  STACK     : MERN / CLOUD     │
-   │  CURiosity : ██████████ 100%  │
-   │  COFFEE    : ████████░░  83%  │
-   │  BUGS      : ███████░░░  72%  │
-   │  SLEEP     : ░░░░░░░░░░   2%  │
-   │──────────────────────────────│
-   │  > ./chase_dreams --no-stop   │
-   └──────────────────────────────┘
+```text
+╔══════════════════════════════════════════╗
+║  $ tail -f /var/log/toshif.log  --follow ║
+╠══════════════════════════════════════════╣
+║ [OK]   booted up the curiosity engine   ║
+║ [OK]   loaded  : node, react, k8s, ☕   ║
+║ [WARN] sleep.schedule not found          ║
+║ [OK]   aura        : ▓▓▓▓▓▓▓▓▓▓ 100%   ║
+║ [OK]   caffeine    : ▓▓▓▓▓▓▓▓░░  83%   ║
+║ [OK]   bugs.fixed  : ▓▓▓▓▓▓▓░░░  72%   ║
+║ [OK]   sleep.level : ░░░░░░░░░░   2%   ║
+║ [INFO] motto: "It works on my machine™" ║
+║ [>>]   > ./chase_dreams --no-stop       ║
+║ [>>]   > npm run master-it              ║
+║ [>>]   > git push origin unhinged       ║
+╚══════════════════════════════════════════╝
 ```
 
 </td>
