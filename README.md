@@ -1,12 +1,24 @@
-<!-- ============== HELLO-KITTY-STYLE PIXEL CATS (sticky, follow you while scrolling) ============== -->
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk1.gif" alt="nyx the pixel cat" width="130" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk2.gif" alt="ren the pixel cat" width="130" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-
 <div id="top" align="center">
 
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="60" alt="wave" style="transform: scale(0.5) translateY(-15px);"/>
+<table align="center" style="border:none;border-collapse:collapse;">
+<tr style="border:none;">
+<td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
+  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk1.gif" alt="nyx" width="64"/>
+</td>
+<td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
+  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="60" alt="wave" style="transform: scale(0.5) translateY(-15px);"/>
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=1800&pause=400&color=FF2BD6,FFD700,FF7A00&center=false&vCenter=false&repeat=true&width=560&height=36&lines=%3E+initializing+toshifdotdev.exe" alt="initializing typing svg" />
+</td>
+<td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
+  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk2.gif" alt="ren" width="64"/>
+</td>
+</tr>
+</table>
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=1800&pause=400&color=FF2BD6,FFD700,FF7A00&center=false&vCenter=false&repeat=true&width=560&height=36&lines=%3E+initializing+toshifdotdev.exe" alt="initializing typing svg" />
+<!-- Sticky mini versions that follow you while scrolling -->
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk1.gif" alt="nyx" width="72" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_hk2.gif" alt="ren" width="72" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
 
 <br/>
 

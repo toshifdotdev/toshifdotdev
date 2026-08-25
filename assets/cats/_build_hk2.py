@@ -100,8 +100,8 @@ def render_frame(frame_idx):
     for r, c, ch in MOUTH:
         grid[r][c] = ch
 
-    # Bow on the RIGHT ear: anchor around col 20, row 0
-    place_bow(grid, 19, 0, frame_idx)
+    # Bow on the RIGHT ear, sitting above-right of the right ear
+    place_bow(grid, 17, 0, frame_idx)
 
     bob = [0, 0, 0, -1, 0, 1, 0, 0][frame_idx]
     if bob != 0:
