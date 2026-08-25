@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 130" width="110" height="130" role="img" aria-label="nyx mascot">
+  <defs>
+    <linearGradient id="hair" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff2bd6"/>
+      <stop offset="100%" stop-color="#7a00ff"/>
+    </linearGradient>
+    <linearGradient id="hoodie" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#0066ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-5; 0,0" dur="2.4s" repeatCount="indefinite"/>
+    <ellipse cx="55" cy="120" rx="22" ry="3" fill="#000" opacity="0.35"/>
+    <path d="M22,55 Q20,30 55,28 Q90,30 88,55 L92,95 L18,95 Z" fill="url(#hoodie)" stroke="#0a0a0a" stroke-width="2"/>
+    <path d="M30,30 Q40,8 55,10 Q70,8 80,30 L80,55 L30,55 Z" fill="url(#hair)" stroke="#0a0a0a" stroke-width="2"/>
+    <path d="M28,32 Q22,50 18,70 L8,75 L20,55 Z" fill="url(#hair)"/>
+    <path d="M82,32 Q88,50 92,70 L102,75 L90,55 Z" fill="url(#hair)"/>
+    <circle cx="46" cy="44" r="3" fill="#0a0a0a"/>
+    <circle cx="64" cy="44" r="3" fill="#0a0a0a"/>
+    <circle cx="46.8" cy="43.2" r="0.9" fill="#fff"/>
+    <circle cx="64.8" cy="43.2" r="0.9" fill="#fff"/>
+    <path d="M48,52 Q55,56 62,52" stroke="#0a0a0a" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-15 23 62; 15 23 62; -15 23 62" dur="0.7s" repeatCount="indefinite"/>
+      <rect x="18" y="62" width="10" height="28" rx="5" fill="url(#hoodie)" stroke="#0a0a0a" stroke-width="1.5"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="15 87 62; -15 87 62; 15 87 62" dur="0.7s" repeatCount="indefinite"/>
+      <rect x="82" y="62" width="10" height="28" rx="5" fill="url(#hoodie)" stroke="#0a0a0a" stroke-width="1.5"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-15 41 95; 15 41 95; -15 41 95" dur="0.7s" repeatCount="indefinite"/>
+      <rect x="36" y="95" width="10" height="20" rx="4" fill="#1a1a2e" stroke="#0a0a0a" stroke-width="1.5"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="15 69 95; -15 69 95; 15 69 95" dur="0.7s" repeatCount="indefinite"/>
+      <rect x="64" y="95" width="10" height="20" rx="4" fill="#1a1a2e" stroke="#0a0a0a" stroke-width="1.5"/>
+    </g>
+    <g filter="url(#glow)">
+      <rect x="32" y="70" width="46" height="22" rx="2" fill="#0a0a0a" stroke="#00f0ff" stroke-width="1.5">
+        <animate attributeName="stroke" values="#00f0ff;#ff2bd6;#00f0ff" dur="2s" repeatCount="indefinite"/>
+      </rect>
+      <text x="55" y="84" text-anchor="middle" font-family="monospace" font-size="8" fill="#00f0ff">&gt; nyx.run()</text>
+    </g>
+  </g>
+</svg>
