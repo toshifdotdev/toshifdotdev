@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 60" width="1200" height="60">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff00e6"/>
+      <stop offset="33%" stop-color="#9d00ff"/>
+      <stop offset="66%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#ff7a00"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="2"/></filter>
+  </defs>
+  <g filter="url(#glow)">
+    <circle cx="40"  cy="30" r="6" fill="url(#g)"><animate attributeName="opacity" values="1;0.3;1" dur="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="90"  cy="30" r="6" fill="url(#g)"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.15s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="30" r="6" fill="url(#g)"><animate attributeName="opacity" values="1;0.3;1" dur="1.2s" begin="0.3s" repeatCount="indefinite"/></circle>
+    <circle cx="190" cy="30" r="6" fill="url(#g)"><animate attributeName="opacity" values="0.3;1;0.3" dur="1.2s" begin="0.45s" repeatCount="indefinite"/></circle>
+    <text x="240" y="38" font-family="monospace" font-size="18" fill="url(#g)" font-weight="bold">
+      toshifdotdev ~ $ <tspan>█</tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
