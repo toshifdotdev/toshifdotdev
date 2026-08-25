@@ -3,7 +3,7 @@
 <table align="center" style="border:none;border-collapse:collapse;">
 <tr style="border:none;">
 <td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
-  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/ghost1.gif" alt="boo the ghost" width="64"/>
+  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel1.gif" alt="pixel cat" width="64"/>
 </td>
 <td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
   <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="60" alt="wave" style="transform: scale(0.5) translateY(-15px);"/>
@@ -11,14 +11,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=1800&pause=400&color=FF2BD6,FFD700,FF7A00&center=false&vCenter=false&repeat=true&width=560&height=36&lines=%3E+initializing+toshifdotdev.exe" alt="initializing typing svg" />
 </td>
 <td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
-  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/ghost2.gif" alt="lumi the ghost" width="64"/>
+  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel2.gif" alt="pixel cat" width="64"/>
 </td>
 </tr>
 </table>
 
-<!-- Sticky mini ghosts that float and follow you while scrolling -->
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/ghost1.gif" alt="boo" width="72" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/ghost2.gif" alt="lumi" width="72" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<!-- Sticky mini pixel cats that follow you while scrolling -->
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel1.gif" alt="pixel cat" width="72" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel2.gif" alt="pixel cat" width="72" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
 
 <br/>
 
@@ -261,7 +261,7 @@ fun_fact: "I speak fluent JavaScript... and some English."
 
 ```diff
 + aight you actually scrolled all the way down? respect.
-+ boo + lumi just finished haunting production.
++ the pixel cats are watching your commits. meow.
 + achievement unlocked: ████████████ 100% legendary
 + toshif.exe is still running. expect more commits.
 ```
