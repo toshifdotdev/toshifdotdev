@@ -134,12 +134,12 @@ fun_fact: "I speak fluent JavaScript... and some English."
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,python,go,graphql,prisma,mongoose,postgres,mysql,mongodb,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,prisma,mongoose,postgres,mysql,mongodb,redis,firebase&theme=dark" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,jenkins,githubactions,nginx,linux,bash,prometheus,grafana&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx,linux,bash&theme=dark" />
 </p>
 
 ### 🧰 Tools I worship
