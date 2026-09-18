@@ -1,282 +1,204 @@
-<div id="top" align="center">
-
-<table align="center" style="border:none;border-collapse:collapse;">
-<tr style="border:none;">
-<td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
-  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel1.gif" alt="pixel cat" width="64"/>
-</td>
-<td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
-  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="60" alt="wave" style="transform: scale(0.5) translateY(-15px);"/>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&duration=1800&pause=400&color=FF2BD6,FFD700,FF7A00&center=false&vCenter=false&repeat=true&width=560&height=36&lines=%3E+initializing+toshifdotdev.exe" alt="initializing typing svg" />
-</td>
-<td style="border:none;padding:0 12px;vertical-align:middle;" align="center">
-  <img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel2.gif" alt="pixel cat" width="64"/>
-</td>
-</tr>
-</table>
-
-<!-- Sticky mini pixel cats that follow you while scrolling -->
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel1.gif" alt="pixel cat" width="72" style="position:fixed;left:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/cats/cat_pixel2.gif" alt="pixel cat" width="72" style="position:fixed;right:14px;bottom:18px;z-index:9999;pointer-events:none;"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=42&duration=2500&pause=500&color=FF2BD6,FFD700,FF7A00,FF2BD6&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=200&lines=%24+whoami+%F0%9F%91%8B;Hey%2C+I'm+Toshif!+%E2%9C%A8;%F0%9F%92%BB+Relentlessly+Curious+Developer;%F0%9F%9A%80+MERN+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Open+Source;I+don't+know+it%3F+Then+I'll+master+it.%F0%9F%92%AA;Welcome+to+my+digital+playground+%F0%9F%8C%BF" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://github.com/toshifdotdev">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9d?style=for-the-badge&logo=statuspage&logoColor=black" alt="status"/>
-</a>
-<a href="https://github.com/toshifdotdev?tab=followers">
-  <img src="https://img.shields.io/github/followers/toshifdotdev?style=for-the-badge&logo=github&color=ff2bd6&labelColor=0a0a0a" alt="followers"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=toshifdotdev&style=for-the-badge&color=ffd700&label=PROFILE+VIEWS" alt="views"/>
-<img src="https://img.shields.io/badge/CHAOS_LEVEL-∞-ff2bd6?style=for-the-badge&logo=adblock&logoColor=white" alt="chaos"/>
-
-</div>
-
----
-
-<!-- ============== 🧬 ABOUT.EXE (crazy) ============== -->
+<!-- ============================ HEADER ============================ -->
 <div align="center">
 
-## 🧬 about.exe — running as user `toshif`
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F6FEB,100:8957E5&text=Hi%2C%20I%27m%20Toshif&fontSize=65&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Cloud%20%26%20DevOps&descSize=18&descAlignY=76&animation=fadeIn" width="100%" alt="header"/>
 
-<br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;MERN+Stack+%C2%B7+Cloud+%C2%B7+DevOps;Learning+in+public%2C+every+day" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;MERN+Stack+%C2%B7+Cloud+%C2%B7+DevOps;Learning+in+public%2C+every+day" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;MERN+Stack+%C2%B7+Cloud+%C2%B7+DevOps;Learning+in+public%2C+every+day" alt="typing"/>
+  </picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=500&color=FFD700,FF2BD6,FF7A00,FFD700&center=true&vCenter=true&repeat=true&width=850&height=55&lines=%E2%9A%A1+Relentlessly+Curious+Developer+%E2%9A%A1;%F0%9F%9A%80+MERN+%E2%80%A2+Cloud+%E2%80%A2+DevOps+%E2%80%A2+Open+Source;%F0%9F%92%AA+Not+knowing+%3D+excuse+to+master;%F0%9F%9B%A0%EF%B8%8F+Building+dreams+one+commit+at+a+time;%F0%9F%8C%BF+Full-Stack+with+a+hacker%27s+heartbeat" alt="About typing"/>
+  <a href="https://github.com/toshifdotdev?tab=repositories">
+    <img src="https://komarev.com/ghpvc/?username=toshifdotdev&style=flat-square&color=1F6FEB&label=Profile+Views" alt="profile views"/>
+  </a>
 
 </div>
 
-<br/>
+<!-- ============================ ABOUT ============================ -->
+## 🧑‍💻 About Me
 
-<table align="center">
+<table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
+
+### Hi there 👋
+
+I'm **Toshif**, a full-stack developer from India who enjoys turning ideas
+into working products — from the React front end to the Node.js API to the
+CI/CD pipeline that ships it.
+
+- 🔭 Currently building full-stack projects with the **MERN** stack
+- 🌱 Deepening **DevOps & Cloud** — Docker, GitHub Actions, AWS
+- 🧩 Solving daily DSA problems (Striver's A2Z sheet) in [leetcode-journey](https://github.com/toshifdotdev/leetcode-journey)
+- 👯 Open to collaborating on web apps and open source
+- 📫 Reach me at **mdtoshif381@gmail.com**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Facts
 
 ```yaml
-# ./toshif.yaml — runtime config
-user:
-  name: Toshif
-  role: Full-Stack Developer
-  origin: India 🇮🇳
-  motto: "It works on my machine™"
-  belief: |
-    "Not knowing something isn't a roadblock —
-     it's an excuse to put in the hard work
-     and master it."
-  mantra: "Learn. Build. Repeat."
-
-currently_hacking:
-  - Kubernetes 🐳
-  - System Design 🧠
-  - Whatever keeps me up at 3 AM ☕
-
-superpowers:
-  - 🐛 Bug Whisperer
-  - 🧩 API Alchemist
-  - ☁️ Cloud Sorcerer
-  - 🚀 3AM Deployer
-
-weakness:
-  - 🍕 Free pizza
-  - 🐈 Cats (all of them)
-
-fun_fact: "I speak fluent JavaScript... and some English."
+name: Toshif
+role: Full-Stack Developer
+focus: MERN Stack · Cloud Computing · DevOps
+learning: Kubernetes · System Design
+philosophy: Learn → Build → Repeat
+open_to: Internships · Collaborations
 ```
 
-</td>
-<td width="45%" valign="top">
-
-```text
-╔══════════════════════════════════════════╗
-║  $ tail -f /var/log/toshif.log  --follow ║
-╠══════════════════════════════════════════╣
-║ [OK]   booted up the curiosity engine   ║
-║ [OK]   loaded  : node, react, k8s, ☕   ║
-║ [WARN] sleep.schedule not found          ║
-║ [OK]   aura        : ▓▓▓▓▓▓▓▓▓▓ 100%   ║
-║ [OK]   caffeine    : ▓▓▓▓▓▓▓▓░░  83%   ║
-║ [OK]   bugs.fixed  : ▓▓▓▓▓▓▓░░░  72%   ║
-║ [OK]   sleep.level : ░░░░░░░░░░   2%   ║
-║ [INFO] motto: "It works on my machine™" ║
-║ [>>]   > ./chase_dreams --no-stop       ║
-║ [>>]   > npm run master-it              ║
-║ [>>]   > git push origin unhinged       ║
-╚══════════════════════════════════════════╝
-```
+> "Not knowing something isn't a roadblock —
+> it's an excuse to master it."
 
 </td>
 </tr>
 </table>
 
+<!-- ============================ TECH STACK ============================ -->
+## 🛠️ Tech Stack
+
 <div align="center">
 
-> _"I don't know it yet"_ → `git clone` → `npm run master-it` ✅
+**Frontend**
 
-</div>
-
----
-
-<!-- ============== 🛠 TECH STACK ============== -->
-<div align="center">
-
-## 🛠️ weapons of choice
-
-<br/>
-
-### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,html,css,tailwind,sass,bootstrap,materialui,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux&theme=dark" alt="frontend"/>
 </p>
 
-### ⚙️ Backend
+**Backend & Databases**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,prisma,mongoose,postgres,mysql,mongodb,redis,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,java,python&theme=dark" alt="backend"/>
 </p>
 
-### ☁️ DevOps & Cloud
+**Cloud & DevOps**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,githubactions,nginx,linux,bash&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,bash&theme=dark" alt="devops"/>
 </p>
 
-### 🧰 Tools I worship
+**Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,webstorm,postman,insomnia,notion,figma,stackoverflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" alt="tools"/>
 </p>
 
 </div>
 
----
+<!-- ============================ STATS ============================ -->
+## 📊 GitHub Statistics
 
-<!-- ============== 🐍 SNAKE + TROPHIES ============== -->
 <div align="center">
-
-## 🐍 contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=toshifdotdev&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=toshifdotdev&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=toshifdotdev&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=1F6FEB" alt="GitHub stats"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&hide_border=true&background=FFFFFF&stroke=D0D7DE&ring=0969DA&fire=E16F24&currStreakLabel=0969DA&sideLabels=57606A&currStreakNum=24292F&dates=6E7781" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=toshifdotdev&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F0883E&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub streak"/>
 </picture>
 
-> _The snake eats my commits so I don't have to debug them._ 🐍✨
-
-<br/>
-
-## 🏆 trophy case
-
-<img src="https://github-profile-trophy.vercel.app/?username=toshifdotdev&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toshifdotdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=toshifdotdev&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshifdotdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top languages"/>
+</picture>
 
 </div>
 
----
+<!-- ============================ PROJECTS ============================ -->
+## 🚀 Featured Projects
 
-<!-- ============== 📊 STATS ============== -->
 <div align="center">
-
-## 📊 the numbers don't lie (but they do bend)
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=toshifdotdev&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff2bd6&text_color=ffd700&icon_color=ff7a00&rank_icon=github" alt="stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=toshifdotdev&theme=radical&hide_border=true&background=0a0a0a&stroke=ff2bd6&ring=ffd700&fire=ff7a00&currStreakLabel=ffd700" alt="streak"/>
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshifdotdev&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff2bd6&text_color=ffd700" alt="langs"/>
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=toshifdotdev&theme=react-dark&hide_border=true&bg_color=0a0a0a&color=ffd700&line=ff2bd6&point=ff7a00&area=true" alt="activity graph" width="100%"/>
-
-</div>
-
----
-
-<!-- ============== 🚀 FEATURED PROJECTS ============== -->
-<div align="center">
-
-## 🚀 featured deployments
 
 <a href="https://github.com/toshifdotdev/LinkShift">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=LinkShift&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff2bd6&text_color=ffd700" alt="LinkShift"/>
-</a>
-<a href="https://github.com/toshifdotdev/leetcode-journey">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=leetcode-journey&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff2bd6&text_color=ffd700" alt="leetcode-journey"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=LinkShift&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=LinkShift&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=LinkShift&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="LinkShift"/>
+  </picture>
 </a>
 <a href="https://github.com/toshifdotdev/docker-todo-app-bun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=docker-todo-app-bun&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff2bd6&text_color=ffd700" alt="docker-todo-app-bun"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=docker-todo-app-bun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=docker-todo-app-bun&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=docker-todo-app-bun&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="docker-todo-app-bun"/>
+  </picture>
 </a>
-<a href="https://github.com/toshifdotdev/react-counter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=react-counter&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=ff2bd6&text_color=ffd700" alt="react-counter"/>
+<a href="https://github.com/toshifdotdev/todo-jwt">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=todo-jwt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=todo-jwt&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=todo-jwt&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="todo-jwt"/>
+  </picture>
+</a>
+<a href="https://github.com/toshifdotdev/leetcode-journey">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=leetcode-journey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=leetcode-journey&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=toshifdotdev&repo=leetcode-journey&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="leetcode-journey"/>
+  </picture>
 </a>
 
 </div>
 
----
+<!-- ============================ SNAKE ============================ -->
+## 🐍 Contribution Graph
 
-<!-- ============== 🌐 CONNECT ============== -->
 <div align="center">
 
-## 🌐 come hang out
+<!-- Only the light snake SVG is generated by the current workflow. To get a
+     dark variant too, add a second Platane/snk step in the workflow with
+     outputs: file: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+     and switch this <img> back to a <picture> block. -->
+<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
 
-<br/>
+</div>
 
-<p>
-  <a href="https://github.com/toshifdotdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
-  </a>
+<!-- ============================ CONNECT ============================ -->
+## 🤝 Connect With Me
+
+<div align="center">
+
   <a href="https://www.linkedin.com/in/mohd-toshif-903a1b342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/toshifdotdev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/>
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://dev.to/toshifdotdev">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="devto"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/>
   </a>
   <a href="mailto:mdtoshif381@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
 
----
-
-<!-- ============== 🎬 END CARD ============== -->
+<!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-### `> sudo shutdown -h now`... just kidding, I'm still shipping ⚡
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8957E5,100:1F6FEB&text=Thanks%20for%20visiting&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="footer"/>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,21,24&height=220&section=footer&text=COMMIT+→+PUSH+→+REPEAT&fontSize=44&fontColor=fff&animation=twinkling" alt="footer wave"/>
-
-<br/>
-
-```diff
-+ aight you actually scrolled all the way down? respect.
-+ the pixel cats are watching your commits. meow.
-+ achievement unlocked: ████████████ 100% legendary
-+ toshif.exe is still running. expect more commits.
-```
-
-```
-   ╭─────────────────────────────────────╮
-   │   "code hard, stay curious, ship   │
-   │         something unhinged."        │
-   ╰─────────────────────────────────────╯
-```
-
-<br/>
-
-<sub>👀 psst — the anime mascots in the corners are walking. yes, even now.</sub>
-
-<img src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" width="40" alt="bye" style="transform: scale(0.33) translateY(-20px);"/>
+  <sub>© 2026 Toshif · Built with ❤️ and shipped one commit at a time</sub>
 
 </div>
+
+<!-- ------------------------------------------------------------------
+  OPTIONAL / DISABLED — uncomment if you want them back:
+
+  1. Profile trophies (service currently DEPLOYMENT_DISABLED / 402 for everyone,
+     images were showing broken — that's why they were removed):
+     <img src="https://github-profile-trophy.vercel.app/?username=toshifdotdev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" alt="trophies"/>
+
+  2. Activity graph (service also dead):
+     https://github-readme-activity-graph.vercel.app/graph?username=...
+
+  3. If github-readme-stats.vercel.app ever shows broken images (it rate-limits
+     sometimes), swap the hostname for a community mirror, e.g.:
+     https://github-readme-stats-sigma-five.vercel.app
+------------------------------------------------------------------- -->
