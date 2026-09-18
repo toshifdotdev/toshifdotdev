@@ -1,7 +1,7 @@
 <!-- ============================ HEADER ============================ -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1F6FEB,100:8957E5&text=Hi%2C%20I%27m%20Toshif&fontSize=65&fontColor=FFFFFF&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20%C2%B7%20Cloud%20%26%20DevOps&descSize=18&descAlignY=76&animation=fadeIn" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&color=0:1F6FEB,100:8957E5&text=Hi%2C%20I%27m%20Toshif&fontSize=60&fontColor=fff&animation=fadeIn" width="100%" alt="header"/>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;MERN+Stack+%C2%B7+Cloud+%C2%B7+DevOps;Learning+in+public%2C+every+day" />
@@ -9,9 +9,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;MERN+Stack+%C2%B7+Cloud+%C2%B7+DevOps;Learning+in+public%2C+every+day" alt="typing"/>
   </picture>
 
-  <a href="https://github.com/toshifdotdev?tab=repositories">
-    <img src="https://komarev.com/ghpvc/?username=toshifdotdev&style=flat-square&color=1F6FEB&label=Profile+Views" alt="profile views"/>
-  </a>
+  <p>
+    <a href="https://github.com/toshifdotdev?tab=repositories">
+      <img src="https://komarev.com/ghpvc/?username=toshifdotdev&style=flat-square&color=1F6FEB&label=Profile+Views" alt="profile views"/>
+    </a>
+  </p>
 
 </div>
 
@@ -165,16 +167,16 @@ open_to: Internships · Collaborations
 <div align="center">
 
   <a href="https://www.linkedin.com/in/mohd-toshif-903a1b342/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/toshifdotdev">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://dev.to/toshifdotdev">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to"/>
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/>
   </a>
   <a href="mailto:mdtoshif381@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
 </div>
@@ -182,7 +184,7 @@ open_to: Internships · Collaborations
 <!-- ============================ FOOTER ============================ -->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8957E5,100:1F6FEB&text=Thanks%20for%20visiting&fontSize=26&fontColor=FFFFFF&animation=fadeIn" width="100%" alt="footer"/>
+  <br/>
 
   <sub>© 2026 Toshif · Built with ❤️ and shipped one commit at a time</sub>
 
