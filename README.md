@@ -9,53 +9,21 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=640&height=40&lines=Full-Stack+Developer;MERN+Stack+%C2%B7+Cloud+%C2%B7+DevOps;Learning+in+public%2C+every+day" alt="typing"/>
   </picture>
 
-  <p>
-    <a href="https://github.com/toshifdotdev?tab=repositories">
-      <img src="https://komarev.com/ghpvc/?username=toshifdotdev&style=flat-square&color=1F6FEB&label=Profile+Views" alt="profile views"/>
-    </a>
-  </p>
-
 </div>
 
 <!-- ============================ ABOUT ============================ -->
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+I'm **Toshif**, a full-stack developer from India who enjoys turning ideas into working
+products — from the React front end to the Node.js API to the CI/CD pipeline that ships it.
 
-### Hi there 👋
+- 🔭 **Currently** — building full-stack projects with the **MERN** stack
+- 🌱 **Learning** — DevOps & Cloud: Docker, GitHub Actions, AWS
+- 🧩 **Practicing** — one DSA problem a day in [leetcode-journey](https://github.com/toshifdotdev/leetcode-journey)
+- 👯 **Open to** — internships, collaborations and open source
+- 📫 **Reach me** — [mdtoshif381@gmail.com](mailto:mdtoshif381@gmail.com)
 
-I'm **Toshif**, a full-stack developer from India who enjoys turning ideas
-into working products — from the React front end to the Node.js API to the
-CI/CD pipeline that ships it.
-
-- 🔭 Currently building full-stack projects with the **MERN** stack
-- 🌱 Deepening **DevOps & Cloud** — Docker, GitHub Actions, AWS
-- 🧩 Solving daily DSA problems (Striver's A2Z sheet) in [leetcode-journey](https://github.com/toshifdotdev/leetcode-journey)
-- 👯 Open to collaborating on web apps and open source
-- 📫 Reach me at **mdtoshif381@gmail.com**
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Quick Facts
-
-```yaml
-name: Toshif
-role: Full-Stack Developer
-focus: MERN Stack · Cloud Computing · DevOps
-learning: Kubernetes · System Design
-philosophy: Learn → Build → Repeat
-open_to: Internships · Collaborations
-```
-
-> "Not knowing something isn't a roadblock —
-> it's an excuse to master it."
-
-</td>
-</tr>
-</table>
+> _"Not knowing something isn't a roadblock — it's an excuse to master it."_
 
 <!-- ============================ TECH STACK ============================ -->
 ## 🛠️ Tech Stack
@@ -170,7 +138,7 @@ open_to: Internships · Collaborations
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://x.com/toshifdotdev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="https://dev.to/toshifdotdev">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"/>
