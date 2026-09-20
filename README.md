@@ -90,7 +90,6 @@ I'm **Toshif**, a full-stack developer from **India** who enjoys turning ideas i
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=github_dark" alt="Contribution Graph"/>
 </div>
 
-<!-- Uncomment after setting up the snake workflow (see .github/workflows/snake.yml):
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/output/github-snake-dark.svg"/>
@@ -98,7 +97,6 @@ I'm **Toshif**, a full-stack developer from **India** who enjoys turning ideas i
     <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/output/github-snake.svg"/>
   </picture>
 </div>
--->
 
 <!-- ===================== CONNECT ===================== -->
 ## 🤝 Connect With Me
