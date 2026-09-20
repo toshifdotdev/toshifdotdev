@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Toshif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" alt="Header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations" alt="Typing SVG"/>
 </a>
 
 </div>
