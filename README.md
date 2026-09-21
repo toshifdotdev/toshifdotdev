@@ -20,7 +20,7 @@ I'm **Toshif**, a **Full-Stack Developer** based in **India**, specializing in t
 - ☁️ **Exploring** — **Docker · GitHub Actions · AWS** for scalable deployments
 - 🧩 **Daily discipline** — solving DSA problems in [`leetcode-journey`](https://github.com/toshifdotdev/leetcode-journey)
 - 🤝 **Open to** — internships, freelance work & open-source collaboration
-- 🌐 **Portfolio** — [linkshift.in](https://linkshift.in)
+- 🌐 **Project** — [linkshift.in](https://linkshift.in)
 - 📫 **Contact** — [mdtoshif381@gmail.com](mailto:mdtoshif381@gmail.com)
 
 > *"Not knowing something isn't a roadblock — it's an excuse to master it."*
