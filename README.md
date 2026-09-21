@@ -3,9 +3,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Toshif&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Cloud%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" alt="Header"/>
 
-<a href="https://git.io/typing-svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations" alt="Typing SVG"/>
-</a>
+</picture>
 
 </div>
 
@@ -58,17 +60,37 @@ I'm **Toshif**, a full-stack developer from **India** who enjoys turning ideas i
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=github_dark" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=github_dark" alt="Top Languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=default"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=github_dark" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=default"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=github_dark" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=github_dark" alt="Most Used Languages by Commits"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=default"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=github_dark" alt="Most Used Languages by Commits"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=github_dark&utcOffset=5.5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=default&utcOffset=5.5"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 <!-- ===================== PROJECTS ===================== -->
@@ -87,7 +109,11 @@ I'm **Toshif**, a full-stack developer from **India** who enjoys turning ideas i
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=github_dark" alt="Contribution Graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=default"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=github_dark" alt="Contribution Graph"/>
+  </picture>
 </div>
 
 <div align="center">
