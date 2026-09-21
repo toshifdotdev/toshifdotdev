@@ -14,7 +14,7 @@
 <!-- ===================== ABOUT ===================== -->
 ## 🧑‍💻 About Me
 
-I'm **Toshif**, a **Full-Stack Developer** based in **India**, specializing in the **MERN stack** with a growing focus on **Cloud & DevOps**. I take products from idea to deployment — crafting responsive React interfaces, engineering robust Node.js APIs, and automating delivery through CI/CD pipelines.
+I'm **Toshif**, a **Full-Stack Developer** based in **India**, specializing in the **MERN stack** with a growing focus on **Cloud & DevOps**. I take products from idea to deployment crafting responsive React interfaces, engineering robust Node.js APIs, and automating delivery through CI/CD pipelines.
 
 - 🔭 **Building** — production-grade full-stack applications with the **MERN stack**
 - ☁️ **Exploring** — **Docker · GitHub Actions · AWS** for scalable deployments
@@ -23,7 +23,7 @@ I'm **Toshif**, a **Full-Stack Developer** based in **India**, specializing in t
 - 🌐 **Project** — [linkshift.in](https://linkshift.in)
 - 📫 **Contact** — [mdtoshif381@gmail.com](mailto:mdtoshif381@gmail.com)
 
-> *"Not knowing something isn't a roadblock — it's an excuse to master it."*
+> *"Not knowing something isn't a roadblock, it's an excuse to master it."*
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
