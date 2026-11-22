@@ -1,0 +1,20 @@
+<svg width="410" height="200" viewBox="0 0 410 200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="ARCO Studio: Web platform for an architecture &amp; interior design studio in Dehradun. Fast, animated, SEO-first.">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#D4A373"/><stop offset="1" stop-color="#E9C46A"/></linearGradient>
+    <radialGradient id="glow"><stop offset="0" stop-color="#D4A373" stop-opacity="0.16"/><stop offset="1" stop-color="#D4A373" stop-opacity="0"/></radialGradient>
+    <clipPath id="frame"><rect width="410" height="200" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="410" height="200" fill="#0D1117"/>
+    <circle cx="40" cy="20" r="170" fill="url(#glow)"/>
+    <rect width="410" height="3" fill="url(#acc)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="409" height="199" rx="16" fill="none" stroke="#30363D"/>
+  <rect x="24" y="24" width="44" height="44" rx="12" fill="#D4A373" fill-opacity="0.14" stroke="#D4A373" stroke-opacity="0.35"/>
+  <g transform="translate(34 34)" fill="none" stroke="#E9C46A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 22V4a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v18Z"/><path d="M6 12H4a2 2 0 0 0-2 2v6a2 2 0 0 0 2 2h2"/><path d="M18 9h2a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2h-2"/><path d="M10 6h4"/><path d="M10 10h4"/><path d="M10 14h4"/><path d="M10 18h4"/></g>
+  <text x="82" y="45" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F0F6FC">ARCO Studio</text>
+  <text x="82" y="64" font-family="SFMono-Regular, Consolas, Menlo, monospace" font-size="11.5" fill="#8B949E">arcostudio.co.in</text>
+  <rect x="323" y="26" width="63" height="22" rx="11" fill="#3FB950" fill-opacity="0.12" stroke="#3FB950" stroke-opacity="0.45"/><circle cx="336" cy="37" r="3.5" fill="#3FB950"><animate attributeName="opacity" values="1;0.35;1" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="336" cy="37" r="3.5" fill="none" stroke="#3FB950"><animate attributeName="r" values="3.5;8" dur="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.8;0" dur="1.6s" repeatCount="indefinite"/></circle><text x="363.0" y="41" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#3FB950">LIVE</text>
+  <text x="24" y="108" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#C9D1D9">Web platform for an architecture &amp; interior design</text><text x="24" y="129" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="13" fill="#C9D1D9">studio in Dehradun. Fast, animated, SEO-first.</text>
+  <rect x="24" y="152" width="71" height="22" rx="11.0" fill="#161B22" stroke="#30363D"/><text x="59.5" y="167.0" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#C9D1D9">React 19</text><rect x="101" y="152" width="84" height="22" rx="11.0" fill="#161B22" stroke="#30363D"/><text x="143.0" y="167.0" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#C9D1D9">TypeScript</text><rect x="191" y="152" width="71" height="22" rx="11.0" fill="#161B22" stroke="#30363D"/><text x="226.5" y="167.0" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#C9D1D9">Tailwind</text><rect x="268" y="152" width="103" height="22" rx="11.0" fill="#161B22" stroke="#30363D"/><text x="319.5" y="167.0" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="11" font-weight="600" fill="#C9D1D9">Framer Motion</text>
+</svg>
