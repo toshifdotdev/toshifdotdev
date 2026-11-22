@@ -4,9 +4,9 @@
 <img width="100%" src="./assets/header.svg" alt="Toshif — Full-Stack Developer"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+AWS+%E2%80%A2+Cloudflare+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1A3A52&background=00000000&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+AWS+%E2%80%A2+Cloudflare+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9"/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+AWS+%E2%80%A2+Cloudflare+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9" alt="Typing SVG"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+AWS+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1A3A52&background=00000000&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+AWS+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=620&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;TypeScript+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+AWS+%E2%80%A2+GitHub+Actions+%E2%80%A2+CI%2FCD;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9" alt="Typing SVG"/>
 </picture>
 
 </div>
@@ -17,7 +17,7 @@
 I'm **Toshif**, a **Full-Stack Developer** based in **India**, specializing in **TypeScript**, the **MERN stack**, and **Cloud & DevOps**. I take products from idea to deployment — crafting responsive React & Next.js interfaces, engineering robust Node.js & PostgreSQL backends, and automating delivery through CI/CD pipelines.
 
 - 🔭 **Currently building** — [**DMARC Harbor**](https://dmarcharbor.com), a multi-tenant email authentication & DMARC monitoring SaaS for MSPs
-- ☁️ **Cloud & DevOps** — **Docker · GitHub Actions · AWS · Cloudflare** for production deployments
+- ☁️ **Cloud & DevOps** — **Docker · GitHub Actions · AWS** for production deployments
 - 🧩 **Daily discipline** — solving DSA problems in [`leetcode-journey`](https://github.com/toshifdotdev/leetcode-journey)
 - 🤝 **Open to** — internships, freelance work & open-source collaboration
 - 📫 **Contact** — [mdtoshif381@gmail.com](mailto:mdtoshif381@gmail.com)
