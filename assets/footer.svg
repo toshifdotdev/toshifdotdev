@@ -1,5 +1,23 @@
-<svg width="854" height="58" viewBox="0 0 854 58" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer">
-  <rect x="0.5" y="0.5" width="853" height="57" rx="6" fill="#0D1117" stroke="#30363D"/>
-  <text x="28" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#8B949E">Toshif <tspan fill="#484F58">·</tspan> <tspan fill="#6E7681">Built and shipped one commit at a time</tspan></text>
-  <text x="826" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#6E7681">dmarcharbor.com <tspan fill="#484F58">·</tspan> mdtoshif381@gmail.com</text>
+<svg width="854" height="100" viewBox="0 0 854 100" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer">
+  <defs>
+    <linearGradient id="bgf" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1A3A52"/>
+      <stop offset="0.55" stop-color="#0F2234"/>
+      <stop offset="1" stop-color="#08111C"/>
+    </linearGradient>
+    <clipPath id="fclip">
+      <rect width="854" height="100" rx="10"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#fclip)">
+    <rect width="854" height="100" fill="url(#bgf)"/>
+    <path fill="#58A6FF" opacity="0.08">
+      <animate attributeName="d" dur="10s" repeatCount="indefinite"
+        values="M0 28 Q 213 10 427 28 T 854 28 L 854 0 L 0 0 Z;
+                M0 28 Q 213 46 427 28 T 854 28 L 854 0 L 0 0 Z;
+                M0 28 Q 213 10 427 28 T 854 28 L 854 0 L 0 0 Z"/>
+    </path>
+    <text x="427" y="64" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="500" fill="#A8C3D1" letter-spacing="1.5">Thanks for visiting — let's build something great together</text>
+  </g>
+  <rect x="0.5" y="0.5" width="853" height="99" rx="10" fill="none" stroke="#24384D"/>
 </svg>
