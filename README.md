@@ -1,113 +1,121 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="./assets/header.svg" alt="Toshif, Full-Stack Developer · Cloud & DevOps"/>
+<img width="100%" src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/header.svg" alt="Toshif — Full-Stack Developer"/>
 
-<br/>
-
-<a href="https://dmarcharbor.com"><img src="https://img.shields.io/badge/dmarcharbor.com-0E1013?style=for-the-badge&logo=googlechrome&logoColor=3FB950" alt="dmarcharbor.com"/></a>
-<a href="https://linkshift.in"><img src="https://img.shields.io/badge/linkshift.in-0E1013?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="linkshift.in"/></a>
-<a href="mailto:mdtoshif381@gmail.com"><img src="https://img.shields.io/badge/Email-0E1013?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-<img src="https://komarev.com/ghpvc/?username=toshifdotdev&label=Profile%20views&color=1f5fd6&style=for-the-badge" alt="Profile views"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+Docker+%E2%80%A2+AWS;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+Docker+%E2%80%A2+AWS;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=600&lines=Turning+ideas+into+working+products+%F0%9F%9A%80;MERN+Stack+%E2%80%A2+TypeScript+%E2%80%A2+Docker+%E2%80%A2+AWS;One+DSA+problem+a+day%2C+every+day+%F0%9F%A7%A9;Open+to+internships+%26+collaborations" alt="Typing SVG"/>
+</picture>
 
 </div>
 
 <!-- ===================== ABOUT ===================== -->
 ## 🧑‍💻 About Me
 
-I'm **Toshif**, a full-stack developer from **India** who likes taking products from a blank repo to a live URL. I build with **TypeScript, React / Next.js and Node.js**, and I handle the parts after `git push` too: **Docker, AWS, Cloudflare and CI/CD**.
+I'm **Toshif**, a **Full-Stack Developer** based in **India**, specializing in the **MERN stack** and **TypeScript** with a growing focus on **Cloud & DevOps**. I take products from idea to deployment — crafting responsive React & Next.js interfaces, engineering robust Node.js APIs, and automating delivery through CI/CD pipelines.
 
-Right now I'm building **[DMARC Harbor](https://dmarcharbor.com)**, an email-security SaaS that helps MSPs and agencies get every client domain to `p=reject` safely.
-
-```ts
-const toshif = {
-  role:      "Full-Stack Developer",
-  location:  "India 🇮🇳",
-  shipping:  ["dmarcharbor.com", "linkshift.in", "arcostudio.co.in"],
-  frontend:  ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-  backend:   ["Node.js", "Express", "Prisma", "PostgreSQL", "Redis"],
-  cloud:     ["AWS", "Docker", "Cloudflare Workers", "GitHub Actions"],
-  practice:  "One DSA problem a day, in Java",
-  openTo:    ["Internships", "Freelance", "Open source"],
-};
-```
+- 🔭 **Building** — [**DMARC Harbor**](https://dmarcharbor.com) & production-grade full-stack applications
+- ☁️ **Exploring** — **Docker · GitHub Actions · AWS · Cloudflare** for scalable deployments
+- 🧩 **Daily discipline** — solving DSA problems in [`leetcode-journey`](https://github.com/toshifdotdev/leetcode-journey)
+- 🤝 **Open to** — internships, freelance work & open-source collaboration
+- 🌐 **Live Project** — [dmarcharbor.com](https://dmarcharbor.com)
+- 📫 **Contact** — [mdtoshif381@gmail.com](mailto:mdtoshif381@gmail.com)
 
 > *"Not knowing something isn't a roadblock, it's an excuse to master it."*
-
-<!-- ===================== PROJECTS ===================== -->
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://dmarcharbor.com">
-  <img width="100%" src="./assets/project-dmarcharbor.svg" alt="DMARC Harbor: DMARC monitoring for MSPs and agencies"/>
-</a>
-
-<a href="https://dmarcharbor.com"><img src="https://img.shields.io/badge/Visit_dmarcharbor.com-13A050?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit dmarcharbor.com"/></a>
-<a href="https://github.com/toshifdotdev/dmarcharbor"><img src="https://img.shields.io/badge/View_source-1F5FD6?style=for-the-badge&logo=github&logoColor=white" alt="DMARC Harbor source"/></a>
-
-<br/><br/>
-
-<a href="https://linkshift.in"><img width="49%" src="./assets/project-linkshift.svg" alt="LinkShift: URL shortener and QR generator with analytics"/></a>
-<a href="https://arcostudio.co.in"><img width="49%" src="./assets/project-arco.svg" alt="ARCO Studio: architecture and interior design studio website"/></a>
-<a href="https://github.com/toshifdotdev/AegisLease"><img width="49%" src="./assets/project-aegislease.svg" alt="AegisLease: zero-trust secret vault and credential lease broker"/></a>
-<a href="https://github.com/toshifdotdev/leetcode-journey"><img width="49%" src="./assets/project-leetcode.svg" alt="LeetCode Journey: daily DSA practice in Java"/></a>
-
-<sub>
-Source:
-<a href="https://github.com/toshifdotdev/LinkShift">LinkShift</a> ·
-<a href="https://github.com/toshifdotdev/arco-studio-web">ARCO Studio</a> ·
-<a href="https://github.com/toshifdotdev/AegisLease">AegisLease</a> ·
-<a href="https://github.com/toshifdotdev/leetcode-journey">LeetCode Journey</a>
-</sub>
-
-</div>
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<sub><b>FRONTEND</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&perline=8" alt="Frontend: React, Next.js, TypeScript, JavaScript, Tailwind, Vite, HTML, CSS"/>
+**Frontend**
 
-<sub><b>BACKEND &amp; DATA</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,bun,prisma,postgres,redis,mongodb,mysql&perline=8" alt="Backend: Node.js, Express, Bun, Prisma, PostgreSQL, Redis, MongoDB, MySQL"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite&perline=8" alt="Frontend skills"/>
+</a>
 
-<sub><b>CLOUD &amp; DEVOPS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=aws,cloudflare,docker,githubactions,nginx,linux&perline=8" alt="Cloud: AWS, Cloudflare, Docker, GitHub Actions, Nginx, Linux"/>
+**Backend & Databases**
 
-<sub><b>LANGUAGES &amp; TOOLS</b></sub><br/>
-<img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,postman&perline=8" alt="Tools: Java, Python, Git, GitHub, VS Code, Postman"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,mongodb,mysql,redis,bun&perline=8" alt="Backend skills"/>
+</a>
+
+**Cloud & DevOps**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,aws,cloudflare,githubactions,linux,nginx&perline=8" alt="Cloud and DevOps skills"/>
+</a>
+
+**Languages & Tools**
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,vscode,postman&perline=8" alt="Languages and tools"/>
+</a>
+
+</div>
+
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech | Links |
+| :--- | :--- | :--- | :--- |
+| 🛡️&nbsp;**[DMARC&nbsp;Harbor](https://dmarcharbor.com)** | Multi-tenant DMARC, SPF & DKIM monitoring SaaS for MSPs — XML/GZ report ingestion, DNS verification, alerting, and white-label client reports | `Next.js` `TypeScript` `Express` `Prisma` `PostgreSQL` `Cloudflare` `AWS` | [💻&nbsp;Repo](https://github.com/toshifdotdev/dmarcharbor)&nbsp;·&nbsp;[🌐&nbsp;Live](https://dmarcharbor.com) |
+| 🔗&nbsp;**[LinkShift](https://github.com/toshifdotdev/LinkShift)** | Full-stack URL shortener and custom QR code generator with per-visit geo, device, and browser analytics | `React` `TypeScript` `Express` `PostgreSQL` `Redis` | [💻&nbsp;Repo](https://github.com/toshifdotdev/LinkShift) |
+| 🔐&nbsp;**[AegisLease](https://github.com/toshifdotdev/AegisLease)** | Zero-trust secret vault and ephemeral PostgreSQL/API credential lease broker built with envelope encryption | `TypeScript` `Node.js` `Express` `Prisma` `PostgreSQL` | [💻&nbsp;Repo](https://github.com/toshifdotdev/AegisLease) |
+| 🏛️&nbsp;**[ARCO&nbsp;Studio](https://arcostudio.co.in)** | Official architecture & interior design web platform built for ARCO Studio, Dehradun | `React 19` `TypeScript` `Tailwind CSS` `Framer Motion` `Vite` | [💻&nbsp;Repo](https://github.com/toshifdotdev/arco-studio-web)&nbsp;·&nbsp;[🌐&nbsp;Live](https://arcostudio.co.in) |
 
 </div>
 
 <!-- ===================== STATS ===================== -->
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=github_dark"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=default"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=github_dark" alt="GitHub stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=toshifdotdev&theme=github_dark" alt="GitHub Stats"/>
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=github_dark"/>
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=default"/>
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=github_dark" alt="Top languages"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toshifdotdev&theme=github_dark" alt="Top Languages"/>
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true&background=0D1117"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&theme=default&hide_border=true"/>
-    <img src="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub streak"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=default"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=toshifdotdev&theme=github_dark" alt="Most Used Languages by Commits"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=github_dark&utcOffset=5.5"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=default&utcOffset=5.5"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=toshifdotdev&theme=github_dark&utcOffset=5.5" alt="Productive Time"/>
   </picture>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=toshifdotdev&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=3FB950&area=true&area_color=1F5FD6&hide_border=true&radius=12" alt="Contribution activity graph"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=toshifdotdev&theme=default&hide_border=true"/>
+    <img src="https://streak-stats.demolab.com?user=toshifdotdev&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+  </picture>
+</div>
+
+<!-- ===================== ACTIVITY ===================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=github_dark"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=default"/>
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=toshifdotdev&theme=github_dark" alt="Contribution Graph"/>
+  </picture>
 </div>
 
 <div align="center">
@@ -119,22 +127,33 @@ Source:
 </div>
 
 <!-- ===================== CONNECT ===================== -->
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <div align="center">
 
-I'm open to **internships, freelance projects and open-source collaboration**. My inbox is always open.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something+amazing+%F0%9F%9A%80;My+inbox+is+always+open+%F0%9F%93%AC;Coffee+chat%3F+I'm+in.+%E2%98%95"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2C5364&background=00000000&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something+amazing+%F0%9F%9A%80;My+inbox+is+always+open+%F0%9F%93%AC;Coffee+chat%3F+I'm+in.+%E2%98%95"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&background=00000000&center=true&vCenter=true&width=500&lines=Let's+connect+and+build+something+amazing+%F0%9F%9A%80;My+inbox+is+always+open+%F0%9F%93%AC;Coffee+chat%3F+I'm+in.+%E2%98%95" alt="Let's connect"/>
+</picture>
 
-<a href="mailto:mdtoshif381@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-<a href="https://dmarcharbor.com"><img src="https://img.shields.io/badge/DMARC_Harbor-13A050?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DMARC Harbor"/></a>
-<a href="https://linkshift.in"><img src="https://img.shields.io/badge/LinkShift-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="LinkShift"/></a>
-<a href="https://github.com/toshifdotdev/leetcode-journey"><img src="https://img.shields.io/badge/DSA_Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode journey"/></a>
-<!-- Add when ready:
-<a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/YOUR_HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdtoshif381@gmail.com)
+[![DMARC Harbor](https://img.shields.io/badge/dmarcharbor.com-2C5364?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dmarcharbor.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/toshifdotdev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+<!-- Add your profiles when ready:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
 -->
 
 </div>
 
 <!-- ===================== FOOTER ===================== -->
-<img width="100%" src="./assets/footer.svg" alt="Thanks for stopping by"/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=toshifdotdev&label=Profile%20Views&color=2c5364&style=flat" alt="Profile views"/>
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/toshifdotdev/toshifdotdev/main/assets/footer.svg" alt="Footer"/>
+
+<div align="center">
+  <sub>© 2026 Toshif · Built with ❤️ and shipped one commit at a time</sub>
+</div>
