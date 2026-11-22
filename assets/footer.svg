@@ -1,27 +1,5 @@
-<svg width="854" height="110" viewBox="0 0 854 110" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgf" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#2C5364"/>
-      <stop offset="0.5" stop-color="#203A43"/>
-      <stop offset="1" stop-color="#0F2027"/>
-    </linearGradient>
-  </defs>
-
-  <!-- layered animated waves on top edge -->
-  <path fill="#58A6FF" opacity="0.07">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="M0 30 Q 213 10 427 30 T 854 30 L 854 0 L 0 0 Z;
-              M0 30 Q 213 50 427 30 T 854 30 L 854 0 L 0 0 Z;
-              M0 30 Q 213 10 427 30 T 854 30 L 854 0 L 0 0 Z"/>
-  </path>
-  <path fill="#79C0FF" opacity="0.06">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0 22 Q 213 38 427 22 T 854 22 L 854 0 L 0 0 Z;
-              M0 22 Q 213 6 427 22 T 854 22 L 854 0 L 0 0 Z;
-              M0 22 Q 213 38 427 22 T 854 22 L 854 0 L 0 0 Z"/>
-  </path>
-
-  <rect y="26" width="854" height="84" fill="url(#bgf)"/>
-
-  <text x="427" y="72" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="14" font-weight="500" fill="#A8C3D1" letter-spacing="2">Thanks for visiting — let's build something great together</text>
+<svg width="854" height="58" viewBox="0 0 854 58" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Footer">
+  <rect x="0.5" y="0.5" width="853" height="57" rx="6" fill="#0D1117" stroke="#30363D"/>
+  <text x="28" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="500" fill="#8B949E">Toshif <tspan fill="#484F58">·</tspan> <tspan fill="#6E7681">Built and shipped one commit at a time</tspan></text>
+  <text x="826" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#6E7681">dmarcharbor.com <tspan fill="#484F58">·</tspan> mdtoshif381@gmail.com</text>
 </svg>

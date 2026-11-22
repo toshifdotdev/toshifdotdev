@@ -1,0 +1,32 @@
+<svg width="854" height="188" viewBox="0 0 854 188" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="DMARC Harbor — Multi-tenant DMARC monitoring SaaS for MSPs">
+  <rect x="0.5" y="0.5" width="853" height="187" rx="6" fill="#0D1117" stroke="#30363D"/>
+  <line x1="556" y1="1" x2="556" y2="187" stroke="#21262D"/>
+
+  <g transform="translate(28 24) scale(0.07421875)"><rect width="512" height="512" rx="96" fill="#15171B" stroke="#30363D" stroke-width="14"/><rect x="120" y="88" width="84" height="336" rx="18" fill="#1F5FD6"/><rect x="308" y="88" width="84" height="336" rx="18" fill="#13A050"/><path d="M162 252 C 196 206, 236 206, 256 252 C 276 298, 316 298, 350 252" stroke="#FFFFFF" stroke-width="44" stroke-linecap="round" fill="none"/></g>
+  <text x="78" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="600" fill="#58A6FF">toshifdotdev / <tspan font-weight="700">dmarcharbor</tspan></text>
+  <rect x="306" y="27" width="48" height="20" rx="10" fill="none" stroke="#30363D"/>
+  <text x="330" y="41" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#8B949E">Public</text>
+
+  <text x="78" y="60" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#3FB950">https://dmarcharbor.com ↗</text>
+
+  <text x="28" y="95" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#C9D1D9">Multi-tenant DMARC, SPF &amp; DKIM monitoring SaaS built for MSPs and agencies.</text>
+  <text x="28" y="116" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#8B949E">Ingests XML/GZ reports, verifies DNS, and generates white-label client reports.</text>
+
+  <!-- Bottom language + stack line -->
+  <circle cx="34" cy="156" r="5.5" fill="#3178C6"/>
+  <text x="47" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#8B949E">TypeScript</text>
+  <text x="116" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#484F58">·</text>
+  <text x="127" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#8B949E">Next.js · Express · Prisma · PostgreSQL · Cloudflare Workers · AWS</text>
+
+  <!-- Right column: clean architecture breakdown -->
+  <text x="580" y="38" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#6E7681" letter-spacing="1.2">KEY CAPABILITIES</text>
+
+  <text x="580" y="68" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#E6EDF3">Edge &amp; IMAP Report Ingress</text>
+  <text x="580" y="85" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8B949E">Cloudflare Worker + XML/GZ parser</text>
+
+  <text x="580" y="115" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#E6EDF3">Automated DNS &amp; Hosted Auth</text>
+  <text x="580" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8B949E">SPF, DKIM, BIMI, MTA-STS &amp; Cloudflare</text>
+
+  <text x="580" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#E6EDF3">Multi-Workspace MSP Portal</text>
+  <text x="580" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" fill="#8B949E">SAML/OIDC SSO, PDF reports &amp; billing</text>
+</svg>

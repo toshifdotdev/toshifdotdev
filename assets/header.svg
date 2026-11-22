@@ -1,52 +1,50 @@
-<svg width="854" height="200" viewBox="0 0 854 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="854" height="212" viewBox="0 0 854 212" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Toshif — Full-Stack Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0F2027"/>
-      <stop offset="0.5" stop-color="#203A43"/>
-      <stop offset="1" stop-color="#2C5364"/>
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="0.6" stop-color="#111923"/>
+      <stop offset="1" stop-color="#162432"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#58A6FF"/>
-      <stop offset="1" stop-color="#79C0FF"/>
-    </linearGradient>
-    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#FFFFFF" opacity="0.07"/>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.8" fill="#8B949E" fill-opacity="0.14"/>
     </pattern>
+    <clipPath id="clip">
+      <rect width="854" height="212" rx="6"/>
+    </clipPath>
   </defs>
 
-  <rect width="854" height="200" fill="url(#bg)"/>
-  <rect width="854" height="200" fill="url(#dots)"/>
+  <g clip-path="url(#clip)">
+    <rect width="854" height="212" fill="url(#bg)"/>
+    <rect width="854" height="152" fill="url(#grid)"/>
 
-  <!-- subtle animated glow -->
-  <circle cx="120" cy="40" r="90" fill="#58A6FF" opacity="0.06">
-    <animate attributeName="r" values="90;110;90" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="740" cy="160" r="80" fill="#79C0FF" opacity="0.05">
-    <animate attributeName="r" values="80;100;80" dur="7s" repeatCount="indefinite"/>
-  </circle>
+    <!-- Subtle architectural grid lines -->
+    <line x1="0" y1="152" x2="854" y2="152" stroke="#21262D" stroke-width="1"/>
+    <line x1="272" y1="152" x2="272" y2="212" stroke="#21262D" stroke-width="1"/>
+    <line x1="580" y1="152" x2="580" y2="212" stroke="#21262D" stroke-width="1"/>
 
-  <!-- name -->
-  <text x="427" y="92" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF" letter-spacing="6">TOSHIF</text>
+    <!-- Top accent hairline -->
+    <rect x="0" y="0" width="854" height="2" fill="#2F81F7" fill-opacity="0.7"/>
 
-  <!-- accent divider -->
-  <rect x="337" y="112" width="180" height="3" rx="1.5" fill="url(#accent)">
-    <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
-  </rect>
+    <!-- Top row: Eyebrow + handle -->
+    <text x="36" y="42" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" font-weight="600" fill="#8B949E" letter-spacing="1.6">FULL-STACK DEVELOPER  ·  INDIA</text>
+    <text x="818" y="42" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#6E7681">github.com/toshifdotdev</text>
 
-  <!-- subtitle -->
-  <text x="427" y="146" text-anchor="middle" font-family="Segoe UI, -apple-system, Helvetica, Arial, sans-serif" font-size="17" font-weight="500" fill="#A8C3D1" letter-spacing="3">FULL-STACK DEVELOPER  ·  MERN  ·  CLOUD &amp; DEVOPS</text>
+    <!-- Name -->
+    <text x="35" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="700" fill="#F0F6FC" letter-spacing="-0.8">Toshif</text>
 
-  <!-- layered animated waves -->
-  <path fill="#58A6FF" opacity="0.07">
-    <animate attributeName="d" dur="10s" repeatCount="indefinite"
-      values="M0 170 Q 213 150 427 170 T 854 170 L 854 200 L 0 200 Z;
-              M0 170 Q 213 190 427 170 T 854 170 L 854 200 L 0 200 Z;
-              M0 170 Q 213 150 427 170 T 854 170 L 854 200 L 0 200 Z"/>
-  </path>
-  <path fill="#79C0FF" opacity="0.06">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="M0 180 Q 213 165 427 180 T 854 180 L 854 200 L 0 200 Z;
-              M0 180 Q 213 195 427 180 T 854 180 L 854 200 L 0 200 Z;
-              M0 180 Q 213 165 427 180 T 854 180 L 854 200 L 0 200 Z"/>
-  </path>
+    <!-- Subtitle -->
+    <text x="36" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#8B949E">Building end-to-end web applications, backend services, and automated cloud deployments.</text>
+
+    <!-- Bottom editorial metadata bar -->
+    <text x="36" y="175" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#6E7681" letter-spacing="1.2">CURRENTLY BUILDING</text>
+    <text x="36" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E6EDF3">DMARC Harbor <tspan fill="#58A6FF" font-weight="400">· dmarcharbor.com</tspan></text>
+
+    <text x="296" y="175" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#6E7681" letter-spacing="1.2">CORE STACK</text>
+    <text x="296" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9">TypeScript · Next.js · Node.js · PostgreSQL</text>
+
+    <text x="604" y="175" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10" font-weight="600" fill="#6E7681" letter-spacing="1.2">INFRASTRUCTURE</text>
+    <text x="604" y="194" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="500" fill="#C9D1D9">Docker · AWS · Cloudflare · CI/CD</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="853" height="211" rx="6" fill="none" stroke="#30363D"/>
 </svg>
